@@ -6,7 +6,7 @@ from datetime import datetime
 
 class McFit:
     def __init__(self):
-        self.webhook_url = "https://discord.com/api/webhooks/1086087909498703952/jj0uo1Rt3AVaXGA_5fRRI8K8Rg4k_UvHy0tLr7BC9AEimYUPdwUfkD7XpOtvBXcIZkBB"
+        self.webhook_url = "INPUT_DISCORD_WEBHOOK_HERE"
         self.studio_id = "1832288610"
 
     def run(self):
