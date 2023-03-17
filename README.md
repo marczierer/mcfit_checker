@@ -1,6 +1,6 @@
 **Auslastung-Checker für McFIT Studios!**
 
-Eines Script welches die Auslastung von eurem McFit checkt! Benachrichtung gibts per Discord Webhook!
+Eine Script welches die Auslastung von eurem McFit checkt! Benachrichtung gibts per Discord Webhook!
 
 
 **HOW-TO-USE:**
