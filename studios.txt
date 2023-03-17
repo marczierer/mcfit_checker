@@ -1,0 +1,528 @@
+McFIT
+
+1210249500 McFIT Hannover Wülfel
+
+1210430420 McFIT Wien Jägerstraße
+
+1214245660 McFIT Schwerin
+
+1217178980 McFIT Hamburg Stellingen
+
+1222406050 McFIT Hamburg Stellingen II
+
+1238245210 McFIT Hamburg St. Georg
+
+1226210240 McFIT Hamburg Langenhorn
+
+1227669060 McFIT Hamburg Hamm
+
+1243732290 McFIT Hamburg Othmarschen
+
+1244533450 McFIT Hamburg Steilshoop
+
+1261222410 McFIT Rostock
+
+1261482430 McFIT Lüneburg
+
+1259118100 McFIT Flensburg
+
+1265635050 McFIT Lübeck
+
+1266242250 McFIT Kiel
+
+1265095530 McFIT Neumünster
+
+1282502730 McFIT Wilhelmshaven
+
+1286387060 McFIT Oldenburg
+
+1282764190 McFIT Garbsen
+
+1287088900 McFIT Siegen
+
+1300281990 McFIT Marburg
+
+1300538400 McFIT Solingen-Mitte
+
+1301061690 McFIT Hildesheim
+
+1307976090 McFIT Magdeburg
+
+1308098500 McFIT Magdeburg-Altstadt
+
+1315044800 McFIT Salzgitter
+
+1315301280 McFIT Bielefeld
+
+1318563820 McFIT Bielefeld-Stieghorst
+
+1320817680 McFIT Gronau
+
+1324491280 McFIT Soest
+
+1320982950 McFIT Osnabrück
+
+1326024770 McFIT Rheine
+
+1326381890 McFIT Lünen
+
+1330877890 McFIT Velbert
+
+1332591200 McFIT Dinslaken
+
+1333102490 McFIT Solingen
+
+1341025840 McFIT Bremerhaven-Lehe
+
+1341260900 McFIT Wolfsburg
+
+1343005470 McFIT Braunschweig
+
+1349256200 McFIT Berlin-Mahlsdorf
+
+1349612870 McFIT Berlin-Adlershof
+
+1350226490 McFIT Berlin-Marzahn
+
+1357900310 McFIT Berlin-Niederschöneweide
+
+1358030660 McFIT Frankfurt an der Oder
+
+1358621370 McFIT Berlin-Lichterfelde
+
+1378349880 McFIT Berlin-Neukölln
+
+1378541720 McFIT Berlin-Spandau
+
+1365485520 McFIT Berlin-Tempelhof
+
+1365913680 McFIT Berlin-Marienfelde
+
+1367073160 McFIT Berlin Alt-HSH
+
+1388329120 McFIT Berlin-Reinickendorf
+
+1401913170 McFIT Berlin-Wedding
+
+1387327290 McFIT Berlin-Spandau West
+
+1387456370 McFIT Berlin-Wilmersdorf
+
+1387648020 McFIT Berlin-Moabit
+
+1413742290 McFIT Berlin Lichtenberg
+
+1414048320 McFIT Berlin-Heinersdorf
+
+1427956210 McFIT Berlin-Charlottenburg
+
+1431743730 McFIT Göttingen
+
+1431982160 McFIT Bremen-Kattenturm
+
+1432413020 McFIT Bremen-Vahr
+
+1444649250 McFIT Bremen-Bahnhofsvorstadt
+
+1447805280 McFIT Münster
+
+1455779710 McFit Hamm
+
+1456341620 McFIT Recklinghausen
+
+1456553390 McFIT Bochum-Grumme
+
+1456559430 McFIT Bochum-Wattenscheid
+
+1464398660 McFIT Dortmund-Mitte
+
+1464428690 McFIT Dortmund-Aplerbeck
+
+1455716930 McFIT Madrid – Ventas
+
+1470853850 McFIT Witten
+
+1470936540 McFIT Bochum-Innenstadt
+
+1470930710 McFIT Bottrop
+
+1470942300 McFIT Duisburg-Wanheimerort
+
+1480580800 McFIT Duisburg-Alt-Hamborn
+
+1471225620 McFIT Hagen
+
+1486991540 McFIT Essen-Nordviertel
+
+1487068340 McFIT Essen-Bergerhausen
+
+1487084750 McFIT Essen-Westviertel
+
+1487134350 McFIT Mülheim
+
+1493810330 McFIT Oberhausen
+
+1495802570 McFIT Oberhausen-Altstadt
+
+1501355840 McFIT Ratingen
+
+1501356000 McFIT Mönchengladbach-Pesch
+
+1501358190 McFIT Wuppertal-Barmen
+
+1511016690 McFIT Wuppertal-Elberfeld
+
+1518062110 McFIT Düsseldorf-Lierenfeld
+
+1518063160 McFIT Neuss
+
+1518063650 McFIT Remscheid
+
+1518063990 McFIT Gelsenkirchen
+
+1518063910 McFIT Gladbeck
+
+1536266890 McFIT Aachen
+
+1536269110 McFIT Aachen-Nordost
+
+1536681400 McFIT Gütersloh
+
+1536769810 McFIT Herne
+
+1537649930 McFIT Krefeld
+
+1538574470 McFIT Paderborn
+
+1549847800 McFIT Leipzig Leutzsch
+
+1557707700 McFIT Torrejón
+
+1557905740 McFIT Alcalá de Henares
+
+1557907430 McFIT Leganés
+
+1557916600 McFIT Madrid – El Carmen
+
+1566042640 McFIT Valladolid
+
+1566039990 McFIT Albacete
+
+1565961220 McFIT Madrid – Delicias
+
+1565961920 McFIT Madrid – Nuevos Ministerios
+
+1574776930 McFIT Barcelona – Les Corts
+
+1574779290 McFIT Barcelona – El Clot
+
+1585313920 McFIT Köln-Mülheim
+
+1586570540 McFIT Köln Bayenthal
+
+1585854790 McFIT Köln-Kalk
+
+1587272080 McFIT Köln-Ehrenfeld
+
+1587901620 McFIT Köln-Altstadt
+
+1584024990 McFIT Köln-Sülz
+
+1587593330 McFIT Leipzig-Zentrum
+
+1632519320 McFIT Bonn-Zentrum
+
+1613588770 McFIT Gießen
+
+1613589280 McFIT Bergisch Gladbach
+
+1613589110 McFIT Leverkusen
+
+1613591080 McFIT Trier
+
+1613967360 McFIT Dresden
+
+1640035820 McFIT Aschaffenburg
+
+1653203780 McFIT Darmstadt
+
+1654413930 McFIT Frankfurt Griesheim
+
+1641290300 McFIT Frankfurt Fechenheim
+
+1655280450 McFIT Frankfurt-Innenstadt
+
+1655147880 McFIT Neuwied
+
+1637935670 McFIT Cornellá
+
+1638539800 McFIT Hospitalet de Llobregat
+
+1637686410 McFIT Barcelona – Universitat
+
+1639727710 McFIT Viladecans
+
+1674651890 McFIT Hanau
+
+1674650740 McFIT Kaiserslautern
+
+1674650850 McFIT Ludwigshafen
+
+1674652050 McFIT Mannheim-Almenhof
+
+1674652490 McFIT Mannheim-Käfertal
+
+1674652800 McFIT Offenbach
+
+1674653140 McFIT Hannover-Vahrenheide
+
+1648594920 McFIT Rubí
+
+1650915900 McFIT Barberá
+
+1644240010 McFIT Terrassa
+
+1643104690 McFIT Ripollet
+
+1699736940 McFIT Saarbrücken
+
+1699735820 McFIT Palma
+
+1699734950 McFIT Mataró
+
+1699735990 McFIT Mainz
+
+1699736310 McFIT Neunkirchen
+
+1699736490 McFIT Pforzheim
+
+1699736840 McFIT Stuttgart-Mühlhausen
+
+1724102500 McFIT Wiesbaden
+
+1699737390 McFIT Hannover-Südstadt
+
+1731066160 McFIT Alicante
+
+1731068110 McFIT Murcia
+
+1731068920 McFIT Sindelfingen
+
+1731144220 McFIT Freiburg
+
+1731333930 McFIT Stuttgart-Feuerbach
+
+1731421430 McFIT Stuttgart-Mitte
+
+1731766900 McFIT Tübingen
+
+1731791930 McFIT Backnang
+
+1751344120 McFIT Innsbruck
+
+1751351510 McFIT Wien-Meidling
+
+1772000160 McFIT Bayreuth
+
+1777724860 McFIT Heilbronn
+
+1777569150 McFIT Neu-Ulm
+
+1777569990 McFIT Reutlingen
+
+1777569060 McFIT Schweinfurt
+
+1790336890 McFIT Würzburg
+
+1774825240 McFIT Klagenfurt
+
+1777567770 McFIT Graz-Gries
+
+1767764730 McFIT Valencia – Amistad
+
+1767762900 McFIT Valencia – Burjassot
+
+1767759850 McFIT Granada
+
+1767530910 McFIT Jerez
+
+1799038410 McFIT Erlangen
+
+1799035060 McFIT Nürnberg-Gostenhof
+
+1799027410 McFIT Bruchsal
+
+1799173150 McFIT Nürnberg-Mögeldorf
+
+1805981150 McFIT Nürnberg-Gibitzenhof
+
+1816185180 McFIT Nürnberg-Doos
+
+1812014550 McFIT Wien-Leopoldstadt
+
+1808922310 McFIT Wien-Floridsdorf
+
+1798270570 McFIT Malaga
+
+1798270040 McFIT Tomares
+
+1798268850 McFIT Sevilla Este
+
+1798268950 McFIT Sevilla – Santa Justa
+
+1832285310 McFIT Augsburg-Göggingen
+
+1832285460 McFIT Augsburg-Innenstadt
+
+1832287070 McFIT Bamberg
+
+1832285570 McFIT Halle
+
+1832288510 McFIT Ingolstadt
+
+1832288610 McFIT Regensburg-Reinhausen
+
+1832288950 McFIT Wien-Neubau
+
+1832290370 McFIT Wien-Favoriten
+
+1858371680 McFIT Gijón
+
+1858371760 McFIT Barakaldo
+
+1858370290 McFIT A Coruña
+
+1858372010 McFIT Vigo
+
+1858373180 McFIT Kassel
+
+1858373350 McFIT Kassel Nord
+
+1882151370 McFIT München-Laim
+
+1858374200 McFIT München-Schwabing
+
+1879795550 McFIT München-Obergiesing
+
+1858377100 McFIT München-Forstenried
+
+1869778900 McFIT Wien-Donaustadt
+
+1876562160 McFIT Wien-Lugnercity
+
+1877858840 McFIT Dresden-Seidnitz
+
+1897087250 McFIT Chemnitz
+
+1897099150 McFIT Erfurt
+
+1897099400 McFIT Gera
+
+1897099900 McFIT Zwickau
+
+1897103300 McFIT Wien-Wienerberg
+
+1928879790 McFIT Zaragoza Delicias
+
+1933110180 McFIT – Torrejón On Plaza
+
+1933193320 McFIT Barcelona – Lesseps
+
+2919955190 McFIT Graz-Center West
+
+3119807980 McFIT Rosenheim
+
+3240624130 McFIT Logroño
+
+
+JOHN & JANE’S
+
+1211459930 JOHN & JANE’S POWERBASE
+
+1210593380 JOHN & JANE’S SOULBASE
+
+
+JOHN REED
+
+1414770410 JOHN REED Berlin Gesundbrunnen
+
+1414215390 JOHN REED Berlin Kreuzberg
+
+1404492860 JOHN REED Berlin Prenzlauer Berg
+
+1613587690 JOHN REED Bonn
+
+1642026390 JOHN REED Club Dresden
+
+1511018920 JOHN REED Club Düsseldorf Bilk
+
+1210252920 JOHN REED Club Essen Rüttenscheid
+
+1217496130 JOHN REED Club Hamburg Harburg
+
+1246330520 JOHN REED Club Hamburg Wandsbek
+
+1210250030 JOHN REED Club Kiel Altstadt
+
+1210429940 JOHN REED Club Mannheim
+
+1897103860 JOHN REED Dortmund Gartenstadt
+
+1518062010 JOHN REED Düsseldorf Friedrichstadt
+
+1897098610 JOHN REED Erfurt
+
+1300470920JOHN REED Koblenz
+
+1584024160 JOHN REED Leipzig
+
+3068946560 JOHN REED Metropol Istanbul
+
+1332683490 JOHN REED Moers
+
+1414810010 JOHN REED Potsdam
+
+1721954170 JOHN REED Salzburg
+
+1210025090 JOHN REED Womens Club Prenzlauer Berg
+
+1565411920 JOHN REED Wuppertal
+
+1210592500 JOHN REED Zürich
+
+1211022120 John Reed Augsburg
+
+1211306330 John Reed Hannover
+
+1211588620 John Reed Regensburg
+
+
+HIGH5
+
+2895769640 High5 Berlin Mitte
+
+2934311450 High5 Bremen-Altstadt
+
+2932255110 High5 Düren
+
+2917835990 High5 Fulda-Innenstadt
+
+2935440040 High5 Hamburg – Hohenfelde
+
+2926023410 High5 Kaiserslautern-Innenst.
+
+2933636030 High5 Kleve
+
+2926788630 High5 Linz-Innenstadt
+
+2934770750 High5 Lübeck
+
+2920588880 High5 Mainz-Neustadt
+
+2916934740 High5 Wien-Simmering
+
+2921886310 High5 Worms
+
+2917397480 High5 Würzburg-Lengfeld
+
+1210533690 Linz Lenaupark
